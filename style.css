@@ -1,0 +1,38 @@
+body {
+    background-image: url("https://i.pinimg.com/originals/82/f2/7c/82f27c36993bb5afecfa277e2f78c7ca.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: aliceblue;
+    font-family: cambria;
+}
+
+.login_div1 {
+    background-color: rgba(233, 243, 241, 0.144);
+    color: whitesmoke;
+    padding: 50px;
+    float: left;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-left: 200px;
+    margin-top: 40;
+}
+
+.login_div2 {
+    background-color: rgba(233, 243, 241, 0.144);
+    color: whitesmoke;
+    padding: 50px;
+    float: right;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-right: 200px;
+}
+
+.btn {
+    background-color: #b478ed;
+    color: white;
+    font-size: 25;
+    margin-top: 100px;
+}

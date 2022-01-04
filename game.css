@@ -1,0 +1,54 @@
+body {
+    background-image: url("https://i.pinimg.com/originals/82/f2/7c/82f27c36993bb5afecfa277e2f78c7ca.jpg");
+    height: 100%;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial;
+    color: whitesmoke;
+    font-weight:900;
+    margin-top: 70px;
+}
+
+input[type=text] {
+   margin: 10px;
+   font-weight: 1;
+   width: 90%;
+}
+
+#con {
+    background-color: rgba(255, 255, 255, 0.158);
+    width: 90%;
+    padding: 30px;
+    margin-left: 65px;
+
+}
+
+.btn {
+    background-color: #b478ed;
+    color: white;
+    font-size: 15;
+    margin: 10px;
+}
+
+#output{
+    margin-left: 283px;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    background-color: rgba(0, 0, 0, 0.267);
+    height: 250px;
+    border-radius: 30px;
+    box-shadow:
+    inset 0 0 50px #fff,
+    inset 20px 0 80px #f0f,
+    inset -20px 0 80px #0ff,
+    inset 20px 0 300px #f0f,
+    inset -20px 0 300px #0ff,
+    0 0 50px #fff,
+    -10px 0 80px #f0f,
+    10px 0 80px #0ff;
+}
+
+#q{
+    margin-top: 35px;
+}
